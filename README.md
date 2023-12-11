@@ -68,7 +68,8 @@ else:
 ```
 ## Output :
 
-![output](https://github.com/21003698/Poisson_distribution/assets/93427522/66c445f7-50f1-4749-a102-9da761ccabcd)
+![Screenshot 2023-12-11 103224](https://github.com/dhanamoni/Poisson_distribution/assets/151629757/da7aec4e-d6f0-4d0e-a623-a9d2c2f246a3)
+
 
 # Results
 
