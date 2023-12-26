@@ -1,3 +1,5 @@
+# EXP NO:2
+# DATE:
 # Fitting Poisson  distribution
 # Aim : 
 
